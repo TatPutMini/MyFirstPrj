@@ -1,3 +1,4 @@
 新しいブランチを作成しました。
 user2  change1
 user2  change2
+user2  change3
